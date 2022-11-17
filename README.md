@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rohanpudasaini
 - 👀 I’m interested in Cyber Security and Penetration Testing
 - 🌱 I’m currently learning Python and Bash
-- 💞️ I’m looking to collaborate on TryHAckMe and CTFs
+- 💞️ I’m looking to collaborate on TryHackMe and CTFs
 - 📫 How to reach me?: contact@rohanpudasaini.com.np
 
 <!---
