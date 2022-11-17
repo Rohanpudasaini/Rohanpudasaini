@@ -58,4 +58,4 @@ Cisco Networking Academy provide a hands-on course for linux, I have completed t
 5. ### [Wordpress By CSITAN](https://www.youtube.com/channel/UCICMoYLC9e5kHrSNohsppjA)
 As a College Representative for CSIT Association of Nepal(CSITAN), I was furtunate enough to learn Wordpress and it's basic and have also made my own [Portfolio Website](https://rohanpudasaini.com.np).
 
-![Certification of Linux Course](/Wordpress_CSITAN.jpg width ="200" height="200") 
+![Certification of Linux Course](/Wordpress_CSITAN1.jpg) 
