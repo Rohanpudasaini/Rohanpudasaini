@@ -21,7 +21,7 @@ I was fortunate enough to be able to take part in Nepals first Hacker's conventi
    * Tasty Food
 
 
-![Certification of Threat con](/images/Threat_Con_20181.jpg ) ![Certification of Threat con](/images/ThreatCon_2018_Badge1.jpg )
+![Certification of Threat con](/Threat_Con_20181.jpg ) ![Certification of Threat con](/ThreatCon_2018_Badge1.jpg )
 
 
 
