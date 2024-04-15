@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohanpudasaini&label=Profile%20views&color=0e75b6&style=flat" alt="rohanpudasaini" /> </p>
 
-- 🌱 I’m currently learning **Django and SQLAlchemy**
+- 🌱 I’m currently learning **FastAPI, Django and SQLAlchemy**
 
 - 👨‍💻 All of my projects are available at [https://rohanpudasaini.com.np](https://rohanpudasaini.com.np)
 
