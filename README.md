@@ -1,5 +1,7 @@
 <div align="center">
 
+
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/ff1b5f32-9420-4dde-b2b9-ed2c0aa17459" width="500">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="header" />
 
   <h1 align="center">Hi there, I'm Rohan Pudasaini 👋</h1>
