@@ -83,7 +83,9 @@ I am a **Software Developer** and **ML Engineer** based in Kathmandu, Nepal. I s
 </div>
 
 <div align="center">
-  <img src="https://my-stats-kohl-gamma.vercel.app/?user=rohanpudasaini&theme=radical" alt="streak" />
+  <!-- <img src="https://my-stats-kohl-gamma.vercel.app/?user=rohanpudasaini&theme=radical" alt="streak" /> -->
+  <!-- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-blue-omega-86.vercel.app?user=Rohanpudasaini&theme=radical&hide_border=true" alt="GitHub Streak" /></a> -->
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-blue-omega-86.vercel.app?user=Rohanpudasaini&theme=radical&hide_border=true&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
 </div>
 
 <br/>
