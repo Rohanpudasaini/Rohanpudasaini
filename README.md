@@ -1,81 +1,95 @@
-<h1 align="center">Hi 👋, I'm Rohan Pudasaini</h1>
-<h3 align="center">Student by day a penetration tester by night</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohanpudasaini&label=Profile%20views&color=0e75b6&style=flat" alt="rohanpudasaini" /> </p>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="header" />
 
-- 🌱 I’m currently learning **FastAPI, Django and SQLAlchemy**
+  <h1 align="center">Hi there, I'm Rohan Pudasaini 👋</h1>
+  
+  <h3 align="center">Backend Developer 🚀 | ML Engineer 🤖 | Pentester 🔐</h3>
 
-- 👨‍💻 All of my projects are available at [https://rohanpudasaini.com.np](https://rohanpudasaini.com.np)
+  <br/>
 
-- 📫 How to reach me **admin@rohanpudasaini.com.np**
+  <p align="center">
+    <a href="https://rohanpudasaini.com.np">
+      <img src="https://img.shields.io/badge/Portfolio-rohanpudasaini.com.np-7b2cbf?style=for-the-badge&logo=firefox&logoColor=white" alt="website" />
+    </a>
+    <a href="mailto:rohanpudasaini581@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Contact%20Me-ef233c?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
+    </a>
+    <a href="https://linkedin.com/in/pudasaini-rohan">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0077b6?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+    </a>
+  </p>
+  
+  <img src="https://komarev.com/ghpvc/?username=rohanpudasaini&label=Profile%20Views&color=7b2cbf&style=flat-square" alt="rohanpudasaini" />
 
-- ⚡ Fun fact **I Use Arch BTW...**
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="https://twitter.com/0xrohan0" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-            alt="0xrohan0" height="30" width="40" /></a>
-    <a href="https://linkedin.com/in/rohan-pudasaini-3a3477284" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="rohan-pudasaini-3a3477284" height="30" width="40" /></a>
-    <a href="https://www.hackerrank.com/pudasainirohan4" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-            alt="pudasainirohan4" height="30" width="40" /></a>
-</p>
+<br/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-            alt="python" width="40" height="40" /> </a>
-    <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img
-            src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" alt="fastAPI" width="40" height="40" /><a
-            href="https://www.sqlalchemy.org/" target="_blank" rel="noreferrer"> <img
-                src="https://upload.wikimedia.org/wikipedia/commons/d/d7/SQLAlchemy.svg" alt="SQLAlchemy" width="40"
-                height="40" /> </a>
-        <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-                alt="postgresql" width="40" height="40" /> </a>
-        <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img
-                src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40" /> </a> <a
-            href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-                alt="docker" width="40" height="40" /> </a> <a href="https://git-scm.com/" target="_blank"
-            rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40"
-                height="40" />
-            <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img
-                    src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40" />
-            </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
-                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-                    alt="html5" width="40" height="40" /> </a> <a href="https://gohugo.io/" target="_blank"
-                rel="noreferrer"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40"
-                    height="40" /> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"
-                rel="noreferrer"> <img
-                    src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg"
-                    alt="illustrator" width="40" height="40" /> </a> <a href="https://www.linux.org/" target="_blank"
-                rel="noreferrer"> <img
-                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
-                    alt="linux" width="40" height="40" /> </a> <a href="https://pandas.pydata.org/" target="_blank"
-                rel="noreferrer"> <img
-                    src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg"
-                    alt="pandas" width="40" height="40" /> </a><a href="https://postman.com" target="_blank"
-                rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
-                    alt="postman" width="40" height="40" /> </a> <a href="https://www.selenium.dev" target="_blank"
-                rel="noreferrer"> <img
-                    src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg"
-                    alt="selenium" width="40" height="40" /> </a>
-</p>
+---
 
-<p><img align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=rohanpudasaini&show_icons=true&locale=en&layout=compact"
-        alt="rohanpudasaini" /></p>
+### 👨‍💻 About Me
 
-<p>&nbsp;<img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=rohanpudasaini&show_icons=true&locale=en"
-        alt="rohanpudasaini" /></p>
+[cite_start]I am a **Software Developer** and **ML Engineer** based in Kathmandu, Nepal[cite: 2]. I specialize in building scalable microservices, orchestrating AI agents, and optimizing backend performance.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohanpudasaini&"
-        alt="rohanpudasaini" /></p>
+- [cite_start]🔭 **Working on:** Autonomous AI Agents using **Gemini** & **RASA** [cite: 9, 23]
+- 🌱 **Learning:** **Go (Golang)** & Advanced System Design
+- [cite_start]🛠️ **Stack:** Python, FastAPI, Docker, PostgreSQL, AWS [cite: 34]
+- ⚡ **Fun fact:** I use Arch, BTW...
 
+---
 
+### 🛠️ Tech Stack (Hover for names)
+
+<div align="center">
+
+  <img src="https://skillicons.dev/icons?i=python" height="50" alt="python" title="Python"/>
+  <img src="https://skillicons.dev/icons?i=go" height="50" alt="go" title="Go (Golang)"/>
+  <img src="https://skillicons.dev/icons?i=c" height="50" alt="c" title="C Language"/>
+  <img src="https://skillicons.dev/icons?i=bash" height="50" alt="bash" title="Bash Scripting"/>
+  
+  <br/><br/>
+  
+  <img src="https://skillicons.dev/icons?i=fastapi" height="50" alt="fastapi" title="FastAPI"/>
+  <img src="https://skillicons.dev/icons?i=django" height="50" alt="django" title="Django"/>
+  <img src="https://skillicons.dev/icons?i=postgres" height="50" alt="postgres" title="PostgreSQL"/>
+  <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql" title="MySQL"/>
+  <img src="https://skillicons.dev/icons?i=redis" height="50" alt="redis" title="Redis"/>
+  <img src="https://skillicons.dev/icons?i=kafka" height="50" alt="kafka" title="Apache Kafka"/>
+  
+  <br/><br/>
+  
+  <img src="https://skillicons.dev/icons?i=docker" height="50" alt="docker" title="Docker"/>
+  <img src="https://skillicons.dev/icons?i=aws" height="50" alt="aws" title="Amazon Web Services"/>
+  <img src="https://skillicons.dev/icons?i=linux" height="50" alt="linux" title="Linux (Arch)"/>
+  <img src="https://skillicons.dev/icons?i=git" height="50" alt="git" title="Git"/>
+  <img src="https://skillicons.dev/icons?i=githubactions" height="50" alt="githubactions" title="GitHub Actions"/>
+  <img src="https://skillicons.dev/icons?i=selenium" height="50" alt="selenium" title="Selenium"/>
+  <img src="https://skillicons.dev/icons?i=pytorch" height="50" alt="pytorch" title="PyTorch"/>
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="50" alt="tensorflow" title="TensorFlow"/>
+
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rohanpudasaini&show_icons=true&theme=radical&count_private=true" height="150" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rohanpudasaini&show_icons=true&locale=en&layout=compact&theme=radical" height="150" alt="languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohanpudasaini&theme=radical" alt="streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://twitter.com/0xrohan0">
+    <img src="https://img.shields.io/badge/Twitter-Follow%20Me-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="twitter" />
+  </a>
+  <a href="https://github.com/Rohanpudasaini">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github&logoColor=white" alt="github" />
+  </a>
+</div>
