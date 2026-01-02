@@ -30,11 +30,11 @@
 
 ### 👨‍💻 About Me
 
-[cite_start]I am a **Software Developer** and **ML Engineer** based in Kathmandu, Nepal[cite: 2]. I specialize in building scalable microservices, orchestrating AI agents, and optimizing backend performance.
+I am a **Software Developer** and **ML Engineer** based in Kathmandu, Nepal. I specialize in building scalable microservices, orchestrating AI agents, and optimizing backend performance.
 
-- [cite_start]🔭 **Working on:** Autonomous AI Agents using **Gemini** & **RASA** [cite: 9, 23]
+- 🔭 **Working on:** Autonomous AI Agents using **Gemini** & **RASA**
 - 🌱 **Learning:** **Go (Golang)** & Advanced System Design
-- [cite_start]🛠️ **Stack:** Python, FastAPI, Docker, PostgreSQL, AWS [cite: 34]
+- 🛠️ **Stack:** Python, FastAPI, Docker, PostgreSQL, AWS 
 - ⚡ **Fun fact:** I use Arch, BTW...
 
 ---
