@@ -77,12 +77,13 @@ I am a **Software Developer** and **ML Engineer** based in Kathmandu, Nepal. I s
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohanpudasaini&show_icons=true&theme=radical&count_private=true" height="150" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rohanpudasaini&show_icons=true&locale=en&layout=compact&theme=radical" height="150" alt="languages" />
+  
+  <img src="https://my-stats-kohl-gamma.vercel.app/api?username=rohanpudasaini&show_icons=true&theme=radical&count_private=true" height="150" alt="stats" />
+  <img src="https://my-stats-kohl-gamma.vercel.app/api/top-langs?username=rohanpudasaini&show_icons=true&locale=en&layout=compact&theme=radical" height="150" alt="languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohanpudasaini&theme=radical" alt="streak" />
+  <img src="https://my-stats-kohl-gamma.vercel.app/?user=rohanpudasaini&theme=radical" alt="streak" />
 </div>
 
 <br/>
