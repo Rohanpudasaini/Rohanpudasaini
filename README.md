@@ -85,16 +85,9 @@ I am a **Software Developer** and **ML Engineer** based in Kathmandu, Nepal. I s
 <div align="center">
   <!-- <img src="https://my-stats-kohl-gamma.vercel.app/?user=rohanpudasaini&theme=radical" alt="streak" /> -->
   <!-- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-blue-omega-86.vercel.app?user=Rohanpudasaini&theme=radical&hide_border=true" alt="GitHub Streak" /></a> -->
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-blue-omega-86.vercel.app?user=Rohanpudasaini&theme=radical&hide_border=true&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
+  <!-- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-blue-omega-86.vercel.app?user=Rohanpudasaini&theme=radical&hide_border=true" alt="GitHub Streak" /></a> -->
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-blue-omega-86.vercel.app?user=rohanpudasaini&theme=radical&hide_border=true" alt="GitHub Streak" /></a>
 </div>
 
 <br/>
 
-<div align="center">
-  <a href="https://twitter.com/0xrohan0">
-    <img src="https://img.shields.io/badge/Twitter-Follow%20Me-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="twitter" />
-  </a>
-  <a href="https://github.com/Rohanpudasaini">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github&logoColor=white" alt="github" />
-  </a>
-</div>
