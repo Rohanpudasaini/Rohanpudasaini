@@ -50,7 +50,7 @@ I am a **Software Developer** and **ML Engineer** based in Kathmandu, Nepal. I s
   <img src="https://skillicons.dev/icons?i=c" height="50" alt="c" title="C Language"/>
   <img src="https://skillicons.dev/icons?i=bash" height="50" alt="bash" title="Bash Scripting"/>
   
-  <br/><br/>
+  <br/>
   
   <img src="https://skillicons.dev/icons?i=fastapi" height="50" alt="fastapi" title="FastAPI"/>
   <img src="https://skillicons.dev/icons?i=django" height="50" alt="django" title="Django"/>
@@ -58,8 +58,7 @@ I am a **Software Developer** and **ML Engineer** based in Kathmandu, Nepal. I s
   <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql" title="MySQL"/>
   <img src="https://skillicons.dev/icons?i=redis" height="50" alt="redis" title="Redis"/>
   <img src="https://skillicons.dev/icons?i=kafka" height="50" alt="kafka" title="Apache Kafka"/>
-  
-  <br/><br/>
+  <br/>
   
   <img src="https://skillicons.dev/icons?i=docker" height="50" alt="docker" title="Docker"/>
   <img src="https://skillicons.dev/icons?i=aws" height="50" alt="aws" title="Amazon Web Services"/>
